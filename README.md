@@ -24,7 +24,7 @@ OpenRefinery.AI is a revolutionary crowdsourcing platform that redefines the AI 
 
 - Internet Computer Protocol (ICP) operates as a self-running cloud to the internet using "canister software" on a decentralised network
 - 100% of the online services are functioning on the blockchain for complete decentralisation and cost-effectiveness
-- ICP is designed to scale horizontally, allowing applciations to handle increasing traffic and loads without sacrifcing security or performance
+- ICP is designed to scale horizontally, allowing applications to handle increasing traffic and loads without sacrificing security or performance
 - Cost of computation is put on the developers, making it affordable for users to interact with applications without having to incur gas fees with every transaction
 
 ## User Roles & Key Terms
